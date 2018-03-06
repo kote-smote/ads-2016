@@ -1,0 +1,32 @@
+31
+CREATE images
+OPEN images
+BACK
+OPEN images
+CREATE imga
+CREATE imgc
+CREATE imgb
+DELETE imga
+CREATE imgd
+CREATE gif
+OPEN gif
+PATH
+CREATE gifa
+CREATE gifz
+CREATE unsorted
+PATH
+OPEN unsorted
+CREATE ua
+CREATE ub
+PATH
+PRINT
+BACK
+BACK
+DELETE gif
+PRINT
+BACK
+CREATE settings
+OPEN settings
+CREATE configuration
+CREATE controlpanel
+PRINT

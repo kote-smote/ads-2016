@@ -1,0 +1,30 @@
+29
+CREATE programfiles
+OPEN programfiles
+CREATE codeblocks
+CREATE notepadpp
+OPEN notepadpp
+CREATE langsxml
+CREATE readmetxt
+CREATE notepadexe
+BACK
+OPEN codeblocks
+CREATE codeblocksdll
+CREATE codeblocksexe
+BACK
+BACK
+CREATE users
+CREATE windows
+OPEN windows
+CREATE media
+BACK
+OPEN users
+CREATE darko
+CREATE public
+OPEN darko
+CREATE downloads
+CREATE mydocuments
+CREATE mypictures
+CREATE desktop
+PATH
+PRINT

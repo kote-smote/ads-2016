@@ -1,0 +1,50 @@
+49
+CREATE docs
+OPEN docs
+CREATE netbeans
+OPEN netbeans
+CREATE netbeansxe
+CREATE src
+PATH
+BACK
+CREATE codeblocks
+OPEN codeblocks
+CREATE codeblocksxe
+CREATE src
+BACK
+CREATE eclipse
+OPEN eclipse
+CREATE eclipseexe
+CREATE src
+BACK
+OPEN netbeans
+OPEN src
+CREATE onejava
+CREATE twojava
+CREATE threejava
+CREATE fourjava
+CREATE fivejava
+PATH
+BACK
+BACK
+OPEN eclipse
+OPEN src
+PRINT
+CREATE sixjava
+CREATE sevenjava
+CREATE eightjava
+CREATE ninejava
+CREATE tenjava
+PATH
+BACK
+PATH
+BACK
+OPEN codeblocks
+OPEN src
+CREATE onec
+CREATE threec
+CREATE sevenc
+CREATE ninec
+BACK
+PATH
+PRINT

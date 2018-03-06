@@ -1,0 +1,24 @@
+23
+CREATE music
+CREATE programs
+CREATE games
+OPEN music
+CREATE music
+CREATE programs
+CREATE games
+BACK
+OPEN games
+CREATE music
+CREATE games
+CREATE programs
+BACK
+PRINT
+OPEN programs
+CREATE games
+CREATE programs
+CREATE music
+BACK
+PATH
+OPEN music
+PATH
+PRINT

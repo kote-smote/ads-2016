@@ -1,0 +1,276 @@
+=== TEST 1 ===
+c:\a\
+c:\a\c\
+c:\a\c\
+c:\a\
+c:
+ a
+  b
+  c
+   g
+   h
+   u
+  d
+
+=== TEST 2 === 
+c:\a\b\c\d\e\f\g\h\
+c:\a\b\c\d\e\f\g\
+c:\a\b\c\d\e\f\
+c:\a\b\c\d\e\
+c:\a\b\c\d\
+c:\a\b\c\
+c:\a\b\
+c:\a\
+c:\
+c:
+ a
+  b
+   c
+    d
+     e
+      f
+       g
+        h
+
+=== TEST 3 ===
+c:
+ games
+  games
+  music
+  programs
+ music
+  games
+  music
+  programs
+ programs
+c:\
+c:\music\
+c:
+ games
+  games
+  music
+  programs
+ music
+  games
+  music
+  programs
+ programs
+  games
+  music
+  programs
+
+=== TEST 4 === 
+c:
+ h
+ m
+ n
+ u
+ z
+c:\m\
+
+=== TEST 5 === 
+c:\images\gif\
+c:\images\gif\
+c:\images\gif\unsorted\
+c:
+ images
+  gif
+   gifa
+   gifz
+   unsorted
+    ua
+    ub
+  imgb
+  imgc
+  imgd
+c:
+ images
+  imgb
+  imgc
+  imgd
+c:
+ images
+  imgb
+  imgc
+  imgd
+ settings
+  configuration
+  controlpanel
+
+=== TEST 6 ===
+c:\harrypotter\subs\
+c:
+ harrypotter
+  hpavi
+  subs
+   ensubs
+   mksubs
+ movies
+c:
+ harrypotter
+  hpavi
+ movies
+c:
+ harrypotter
+  hpavi
+  subs
+ movies
+ prisonbreak
+  epa
+  epb
+   epbavi
+   subs
+    frsub
+    mksub
+c:
+ harrypotter
+  hpavi
+  subs
+ movies
+
+=== TEST 7 ===
+c:
+ ad
+c:\ad\
+c:
+ ad
+  kl
+c:
+ ad
+  au
+  kl
+c:\
+c:
+ ad
+  au
+  kl
+ va
+c:\va\
+c:
+ ad
+  au
+  kl
+ va
+  vt
+c:
+ ad
+  au
+  kl
+ va
+  md
+  vt
+c:\
+c:\ad\
+c:
+ ad
+  kl
+ va
+  md
+  vt
+c:
+ ad
+ va
+  md
+  vt
+c:\
+c:
+ va
+  md
+  vt
+c:\va\
+c:
+ va
+  md
+c:
+ va
+c:\
+c:
+
+=== TEST 8 ===
+c:\a\b\c\d\
+c:\a\b\c\
+c:\a\b\
+c:\a\
+c:
+ a
+  b
+   c
+    d
+ d
+  c
+   b
+    a
+c:
+ a
+  b
+   c
+    d
+
+=== TEST 9 ===
+c:\docs\netbeans\
+c:\docs\netbeans\src\
+c:
+ docs
+  codeblocks
+   codeblocksxe
+   src
+  eclipse
+   eclipseexe
+   src
+  netbeans
+   netbeansxe
+   src
+    fivejava
+    fourjava
+    onejava
+    threejava
+    twojava
+c:\docs\eclipse\src\
+c:\docs\eclipse\
+c:\docs\codeblocks\
+c:
+ docs
+  codeblocks
+   codeblocksxe
+   src
+    ninec
+    onec
+    sevenc
+    threec
+  eclipse
+   eclipseexe
+   src
+    eightjava
+    ninejava
+    sevenjava
+    sixjava
+    tenjava
+  netbeans
+   netbeansxe
+   src
+    fivejava
+    fourjava
+    onejava
+    threejava
+    twojava
+
+=== TEST 10 ===
+c:\users\darko\
+c:
+ programfiles
+  codeblocks
+   codeblocksdll
+   codeblocksexe
+  notepadpp
+   langsxml
+   notepadexe
+   readmetxt
+ users
+  darko
+   desktop
+   downloads
+   mydocuments
+   mypictures
+  public
+ windows
+  media

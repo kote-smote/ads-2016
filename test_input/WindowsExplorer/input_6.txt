@@ -1,0 +1,32 @@
+31
+CREATE movies
+CREATE harrypotter
+OPEN harrypotter
+CREATE hpavi
+CREATE subs
+OPEN subs
+CREATE mksubs
+CREATE ensubs
+PATH
+PRINT
+BACK
+DELETE subs
+PRINT
+CREATE subs
+BACK
+CREATE prisonbreak
+OPEN prisonbreak
+CREATE epb
+CREATE epa
+OPEN epb
+CREATE epbavi
+CREATE subs
+OPEN subs
+CREATE mksub
+CREATE frsub
+BACK
+BACK
+BACK
+PRINT
+DELETE prisonbreak
+PRINT
